@@ -1,0 +1,19 @@
+{
+  "name": "portfoliobackend",
+  "version": "1.0.0",
+  "description": "Back Node Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Carlos Marleta",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+
+    "nodemon": "^1.11.1"
+  }
+}
