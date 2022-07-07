@@ -1,5 +1,5 @@
 {
-  "name": "portfoliobackend",
+  "name": "pb",
   "version": "1.0.0",
   "description": "Back Node Express",
   "main": "index.js",
